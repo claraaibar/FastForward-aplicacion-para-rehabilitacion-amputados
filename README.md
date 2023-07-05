@@ -1,7 +1,7 @@
 # FastForward - Aplicación para la rehabilitación de amputados transfemorales
 
-### **Descripción del proyecto:**
-  - Temática: 💻👨‍⚕️ Rehabilitación, diseño ágil de aplicaciones, electrónica digital, protocolo de comunicación inalámbrico, biomecánica, sensorización incercial, sensorización biomédica, robótica básica, impresión 3D.
+### **Descripción del proyecto: 💻👨‍⚕️**
+  - Temática: Rehabilitación, diseño ágil de aplicaciones, electrónica digital, protocolo de comunicación inalámbrico, biomecánica, sensorización incercial, sensorización biomédica, robótica básica, impresión 3D.
   - Softwares empleados: Matlab, Arduino y Cura.
 
 | <img src="https://user-images.githubusercontent.com/79250883/250938412-fedfcded-95ea-4639-ae55-0f261f4f3d31.png" alt="Biosensor Cutáneo" width="600" height="auto"> |Aplicación de teleasistencia para la rehabilitación de pacientes con amputaciones transfemorales. Se realizan informes biomecánicos de tres ejercicios correpsondientes a distintos niveles de rehabilitación en función del nivel de independencia funcional del paciente: a partir de un sistema de sensorización y una plataforma de detección por vídeo de marcadores. Los valores con representados por un sistema de robótica.|
