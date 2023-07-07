@@ -1,6 +1,6 @@
 # FastForward - Aplicación para la rehabilitación de amputados transfemorales
 
-### **Descripción del proyecto: 💻👨‍⚕️**
+### **Descripción del proyecto: **
   - Temática: Rehabilitación, diseño ágil de aplicaciones, electrónica digital, protocolo de comunicación inalámbrico, biomecánica, sensorización incercial, sensorización biomédica, robótica básica, impresión 3D.
   - Softwares empleados: Matlab, Arduino y Cura.
 
